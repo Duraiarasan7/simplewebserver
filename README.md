@@ -37,7 +37,7 @@ content='''
         </tr>
         <tr>
             <td>Device Name</td>
-            <td>geethu</td>
+            <td>Duraiarasan</td>
         </tr>
         <tr>
             <td>Processor</td>
@@ -97,9 +97,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/14761c44-b326-4811-9a37-28c2d573a5a0)
 
-![WhatsApp Image 2024-10-26 at 13 56 47_45c63a95](https://github.com/user-attachments/assets/2b23b1d3-af59-492e-97e7-2ed30ba08c2a)
-![WhatsApp Image 2024-10-26 at 13 57 00_077ceb4a](https://github.com/user-attachments/assets/655b34f0-a5c9-4d58-95dc-099aa5286444)
+![image](https://github.com/user-attachments/assets/d9492b43-2100-44c8-afe7-c7f4ea06951d)
 
 
 ## RESULT:
